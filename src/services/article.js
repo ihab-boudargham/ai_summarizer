@@ -20,7 +20,7 @@ export const articleApi = createApi({
     getSummary: builder.query({
       //query: (id) => `/article/${id}`
       query: (params) =>
-        `/summarize?url=${encodeURIComponent(params.articleUrl)}&length=3`,
+        `/summarize?url=${encodeURIComponent(params.articleUrl)}&length=5`,
     }),
   }),
 });
