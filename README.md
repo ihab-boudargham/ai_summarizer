@@ -8,7 +8,7 @@ An article summarizer application using OpenAi's GPT models with a:
 4. Functionalities as copy to clipboard.
 5. Browser History Storage
 
-Building the web application will give the knowledge to use all OpenAi apis.
+Building this web application will give the knowledge to use all OpenAi apis.
 
 ## Technologies:
 
